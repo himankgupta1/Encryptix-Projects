@@ -1,4 +1,4 @@
-# Encryptix Internship Project
+# Encryptix Internship Projects
 
 This repository contains the three projects completed as part of the internship program at Encryptix.
 
